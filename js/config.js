@@ -232,7 +232,7 @@ class Config {
 			},
 			{
 				site: 'Disney',
-				icon: 'disney',
+				icon: 'netflix',
 				url: 'https://www.disneyplus.com/',
 				category: 'media'
 			},
