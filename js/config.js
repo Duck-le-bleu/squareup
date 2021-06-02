@@ -439,3 +439,4 @@ class Config {
 
 		return panelSites;
 	}
+}
