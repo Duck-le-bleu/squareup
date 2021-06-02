@@ -279,7 +279,7 @@ class Config {
 				category: 'information'
 			},
 			{
-				site: 'Figma',
+				site: 'Disney',
 				icon: 'figma',
 				url: 'https://figma.com/',
 				category: 'design'
