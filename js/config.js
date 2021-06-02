@@ -231,9 +231,9 @@ class Config {
 				category: 'design'
 			},
 			{
-				site: 'Netflix',
-				icon: 'netflix',
-				url: 'https://netflix.com/',
+				site: 'Disney',
+				icon: 'disney',
+				url: 'https://www.disneyplus.com/',
 				category: 'media'
 			},
 			{
@@ -439,4 +439,3 @@ class Config {
 
 		return panelSites;
 	}
-}
