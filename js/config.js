@@ -231,9 +231,9 @@ class Config {
 				category: 'design'
 			},
 			{
-				site: 'Disney',
+				site: 'Netflix',
 				icon: 'netflix',
-				url: 'https://www.disneyplus.com/',
+				url: 'https://www.netflix.com/',
 				category: 'media'
 			},
 			{
