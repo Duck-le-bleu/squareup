@@ -416,9 +416,9 @@ class Config {
 				url: 'https://mail.google.com/'
 			},
 			{
-				site: 'Capital One',
-				icon: 'MC Icon',
-				url: 'https://verified.capitalone.com/auth/signin?Product=ENTERPRISE#/accountSummary/'
+				site: 'anilist',
+				icon: 'anilist',
+				url: 'https://anilist.co/home/'
 			},
 			{
 				site: 'GDrive',
