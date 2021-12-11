@@ -406,9 +406,9 @@ class Config {
 				url: 'https://github.com/'
 			},
 			{
-				site: 'Facebook',
-				icon: 'facebook',
-				url: 'https://facebook.com/'
+				site: 'Youtube',
+				icon: 'youtube',
+				url: 'https://youtube.com/'
 			},
 			{
 				site: 'Gmail',
@@ -416,9 +416,9 @@ class Config {
 				url: 'https://mail.google.com/'
 			},
 			{
-				site: 'Youtube',
-				icon: 'youtube',
-				url: 'https://youtube.com/'
+				site: 'Capital One',
+				icon: 'Capital-one',
+				url: 'https://verified.capitalone.com/auth/signin?Product=ENTERPRISE#/accountSummary/'
 			},
 			{
 				site: 'GDrive',
@@ -431,9 +431,9 @@ class Config {
 				url: 'https://twitter.com/'
 			},
 			{
-				site: 'Material.io',
-				icon: 'materialio',
-				url: 'https://material.io/'
+				site: 'Twitch.tv',
+				icon: 'twitch',
+				url: 'https://www.twitch.tv/'
 			}
 		];
 
