@@ -417,7 +417,7 @@ class Config {
 			},
 			{
 				site: 'Capital One',
-				icon: 'Capital-one',
+				icon: 'MC Logo',
 				url: 'https://verified.capitalone.com/auth/signin?Product=ENTERPRISE#/accountSummary/'
 			},
 			{
