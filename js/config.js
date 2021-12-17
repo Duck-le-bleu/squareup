@@ -431,9 +431,9 @@ class Config {
 				url: 'https://twitter.com/'
 			},
 			{
-				site: 'Twitch.tv',
-				icon: 'twitch',
-				url: 'https://www.twitch.tv/'
+				site: 'theodinproject',
+				icon: 'odin project',
+				url: 'https://www.theodinproject.com//'
 			}
 		];
 
